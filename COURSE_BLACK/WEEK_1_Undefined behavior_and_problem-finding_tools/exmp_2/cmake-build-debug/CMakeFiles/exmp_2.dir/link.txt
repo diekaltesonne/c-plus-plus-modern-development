@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exmp_2.dir/main.cpp.o  -o exmp_2 

@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/6438086/iterator-invalidation-rules#6438087

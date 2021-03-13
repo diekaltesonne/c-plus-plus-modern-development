@@ -1,0 +1,3 @@
+/home/ivan/C_COURSE/C-_COURSE/COURSE_BLACK/WEEK_1_Undefined behavior_and_problem-finding_tools/exmp_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivan/C_COURSE/C-_COURSE/COURSE_BLACK/WEEK_1_Undefined behavior_and_problem-finding_tools/exmp_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivan/C_COURSE/C-_COURSE/COURSE_BLACK/WEEK_1_Undefined behavior_and_problem-finding_tools/exmp_2/cmake-build-debug/CMakeFiles/exmp_2.dir

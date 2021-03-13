@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivan/C_COURSE/C-_COURSE/COURSE_BLACK/WEEK_1_Undefined behavior_and_problem-finding_tools/exmp_2/main.cpp
+algorithm
+-
+cmath
+-
+cstdint
+-
+ctime
+-
+exception
+-
+iostream
+-
+iterator
+-
+memory
+-
+optional
+-
+sstream
+-
+string
+-
+system_error
+-
+type_traits
+-
+unordered_map
+-
+vector
+-
+

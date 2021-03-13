@@ -1,0 +1,5 @@
+#ifndef CAPITAL_PROFF
+#define CAPITAL_PROFF
+
+#endif // CAPITAL_PROFF
+
