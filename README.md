@@ -1,6 +1,6 @@
 ## Coursera: C-plus-plus-modern-development
 
-[Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)
+### [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)
 ### Операции
 - [Уравнение](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_WHITE/WEEK_1/OPERATION/equation/main.cpp)
 - [Минимальная строка](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_WHITE/WEEK_1/OPERATION/min_str/main.cpp)
