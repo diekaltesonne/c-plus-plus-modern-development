@@ -119,5 +119,56 @@
 - [Конспект по неделе 5](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_5_Inheritance%20and%20polymorphism/DOC/Week5.pdf)
 ### Курсовой проект
 - [Курсовой проект](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_YELLOW/WEEK_6_kursovoi-proiekt/kursovoi-proiekt)
+## [Основы разработки на C++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red)
+### Введение в макросы
+- [Макрос LOG](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/Introduction_to_macros/makros-log/Solution_DONE/solution.cpp)
+- [Генератор компараторов](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/Introduction_to_macros/gienierator-komparatorov/Solution_DONE/solution.cpp)
+- [Макрос UPDATE_FIELD](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/Introduction_to_macros/makros-update-field/Solution_Done/solution.cpp)
+- [Плохой макрос](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/Introduction_to_macros/plokhoi-makros/main.cpp)
+- [Макрос UNIQ_ID](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/Introduction_to_macros/makros-uniq-id/main.cpp)
 
+### Шаблоны классов
+- [Таблица](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_1/class_Templates/tablitsa)
+- [Дек на основе двух векторов](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/class_Templates/diek-na-osnovie-dvukh-viektorov/main.cpp)
+- [Шаблон Paginator](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_1/class_Templates/shablon-paginator/Solution)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_1/DOC/WEEK_1.pdf)
+### Принципы оптимизации кода
+- [Сортировка студентов по рейтингу](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_2_Principles_of_code_optimization_complexity_of_algorithms_and_efficient_use_of_I/Principles_of_code_optimization/sortirovka-studientov-po-rieitinghu)
+- [Изучение нового языка](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_2_Principles_of_code_optimization_complexity_of_algorithms_and_efficient_use_of_I/Principles_of_code_optimization/izuchieniie-novogho-iazyka)
+### Эффективное использование потоков ввода/вывода
+### Сложность алгоритмов
+- [Экспрессы](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_2_Principles_of_code_optimization_complexity_of_algorithms_and_efficient_use_of_I/Algorithm_complexity/ekspriessy)
+- [Электронная книга](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_2_Principles_of_code_optimization_complexity_of_algorithms_and_efficient_use_of_I/Algorithm_complexity/eliektronnaia-knigha)
+- [Система бронирования отелей](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_2_Principles_of_code_optimization_complexity_of_algorithms_and_efficient_use_of_I/Algorithm_complexity/sistiema-bronirovaniia-otieliei)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_2_Principles_of_code_optimization_complexity_of_algorithms_and_efficient_use_of_I/DOC/WEEK_2.pdf)
 
+### Модель памяти
+- [Пул объектов](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_3_Memory_model_in_C%2B%2B/pul-obiektov)
+- [Swap, SortPointers, ReversedCopy](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_3_Memory_model_in_C%2B%2B/swap-sortpointers-reversedcopy)
+- [Пишем свой вектор](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_3_Memory_model_in_C%2B%2B/pishiem-svoi-viektor)
+- [Односвязный список](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_3_Memory_model_in_C%2B%2B/odnosviaznyi-spisok)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_3_Memory_model_in_C%2B%2B/DOC/WEEK_3.pdf)
+### Эффективное использование линейных контейнеров
+- [Спортсмены](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/sportsmieny)
+- [StackVector](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/stackvector)
+- [Translator](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/translator)
+- [Текстовый редактор](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/tiekstovyi-riedaktor)
+- [Статистика web-сервера](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/statistika-web-sierviera)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/DOC/WEEK_4.pdf)
+### Move-семантика
+- [Считалка Иосифа](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/schitalka-iosifa)
+- [Группировка строк](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/gruppirovka-strok)
+- [Оператор присваивания для SimpleVector](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/opierator-prisvaivaniia-dlia-simplevector)
+- [Разбиение на предложения](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/razbiieniie-na-priedlozhieniia)
+- [Move-семантика в SimpleVector](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/move-siemantika-v-simplevector)
+- [Сортировка слиянием — 3](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/sortirovka-sliianiiem-3)
+- [Контейнер с приоритетами](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/kontieinier-s-prioritietami)
+
+### Базовая многопоточность
+- [Суммирование матрицы](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/BASE_multitrading/summirovaniie-matritsy)
+- [Исследование блогов](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/BASE_multitrading/issliedovaniie-bloghov)
+- [Шаблон Synchronized](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/BASE_multitrading/shablon-synchronized)
+- [ConcurrentMap](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_5_Move-semantics_and_basic_multithreading/BASE_multitrading/concurrentmap)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/DOC/WEEK_4.pdf)
+### Финальная задача
+- [Поисковая система](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_6_poiskovaia-sistiema/poiskovaia-sistiema)
