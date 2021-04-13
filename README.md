@@ -172,3 +172,56 @@
 - [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_RED/WEEK_4_Efficient_use_of_linear_containers/DOC/WEEK_4.pdf)
 ### Финальная задача
 - [Поисковая система](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_RED/WEEK_6_poiskovaia-sistiema/poiskovaia-sistiema)
+## [Основы разработки на C++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-yellow)
+### Эффективное использование ассоциативных контейнеров
+- [Хеш-таблица](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/a/WEEK_1_Efficient_use%20of_associative_containers/khiesh-tablitsa)
+- [set::iterator++](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_1_Efficient_use%20of_associative_containers/set-iterator)
+- [Интеграция структуры Point в unordered_set](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_1_Efficient_use%20of_associative_containers/intieghratsiia-struktury-point-v-unordered-set)
+- [Интеграция структуры Person в unordered_set](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_1_Efficient_use%20of_associative_containers/intieghratsiia-struktury-person-v-unordered-set)
+- [Вторичный индекс в базе данных](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_1_Efficient_use%20of_associative_containers/vtorichnyi-indieks-v-bazie-dannykh)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_1_Efficient_use%20of_associative_containers/DOC/1.pdf)
+### Пространства имён
+- [Загрузка расходов из формата XML](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/Namespaces/zaghruzka-raskhodov-iz-formata-xml)
+- [Загрузка расходов из формата JSON](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/Namespaces/zaghruzka-raskhodov-iz-formata-json)
+- [Библиотека работы с INI-файлами](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/Namespaces/bibliotieka-raboty-s-ini-failami)
+- [Рефакторинг чужого кода](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/Namespaces/riefaktoringh-chuzhogho-koda)
+- [Реструктуризация кода](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/Namespaces/riestrukturizatsiia-koda)
+### Указатель this
+- [Двойная диспетчеризация](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/this_pointer/dvoinaia-dispietchierizatsiia)
+- [Сервер комментариев](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/this_pointer/siervier-kommientariiev)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_2_Namespaces_and_the_this_pointer/DOC/2.pdf)
+### Константность как элемент проектирования программ
+- [Демографические показатели 2.0](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Constancy/diemoghrafichieskiie-pokazatieli-2-0)
+- [Шаблон LazyValue](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Constancy/shablon-lazyvalue)
+- [Константность в шаблоне Synchronized](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Constancy/konstantnost-v-shablonie-synchronized/Solution/solution.cpp)
+- [Константность в шаблоне ConcurrentMap](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Constancy/konstantnost-v-shablonie-concurrentmap/Solution/solution.cpp)
+- [operator[] в классе Polynomial](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Constancy/operator-v-klassie-polynomial/Solution)
+### Умные указатели, часть 1
+- [Пул объектов](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Smart_pointer_part_1/pul-obiektov/Solution/solution.cpp)
+- [Зоопарк](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Smart_pointer_part_1/zoopark/main.cpp)
+- [Конвейер](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Smart_pointer_part_1/konvieiier/Solution/solution.cpp)
+- [Дерево выражений](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/Smart_pointer_part_1/dierievo-vyrazhienii/Solution)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_3_Constancy_and_unique_ptr/DOC/3.pdf)
+### Умные указатели, часть 2
+- [Текстуры](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/Smart_pointers_part_2/tiekstury/Solution/solution.cpp)
+- [Cache](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/Smart_pointers_part_2/cache/Solution)
+### Идиома RAII
+- [Шаблон UniquePtr](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/IDIOMS_RAII/shablon-uniqueptr/Solution/solution.cpp)
+- [RAII Booking](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/IDIOMS_RAII/raii-booking/Solution/solution.cpp)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/DOC/4.pdf)
+### Функции: принципы понятного кода
+- [Демографические показатели](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/DOC/4.pdf)
+- [Электронная книга](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/rieshieniie-zadachi-eliektronnaia-knigha/rieshieniie-zadachi-eliektronnaia-knigha.cpp)
+- [Экспрессы](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/rieshieniie-zadachi-ekspriessy/rieshieniie-zadachi-ekspriessy.cpp)
+- [Трекер задач](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_4_Smart_pointers_part_2/DOC/4.pdf)
+- [Система бронирования отелей](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/rieshieniie-zadachi-triekier-zadach/rieshieniie-zadachi-triekier-zadachc.cpp)
+- [Тесты к задаче «Демографические показатели»](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/tiesty-k-zadachie-diemoghrafichieskiie-pokazatieli/Solution/solution.cpp)
+- [Запрещённые домены](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/zaprieshchionnyie-domieny)
+- [Тесты к задаче «Запрещённые домены»](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/domen_testing/test_domain)
+- [Личный бюджет, home desktop version](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/lichnyi-biudzhiet-home-desktop-version)
+- [Личный бюджет, professional desktop version](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/lichnyi-biudzhiet-home-desktop-version/Solution)
+- [Личный бюджет, professional mobile version](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/lichnyi-biudzhiet-home-desktop-version/Solution)
+- [Личный бюджет, professional mobile legacy version](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/lichnyi-biudzhiet-home-desktop-version/Solution)
+- [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_5_Functions_principles_of_clear_code/DOC)
+### Финальная задача
+- [Транспортный справочник](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_BROWN/WEEK_6_Final_task)
