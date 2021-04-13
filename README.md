@@ -1,6 +1,5 @@
-## Coursera: C-plus-plus-modern-development
-
-### [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)
+# Coursera: C-plus-plus-modern-development
+## [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white/home/welcome)
 ### Операции
 - [Уравнение](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_WHITE/WEEK_1/OPERATION/equation/main.cpp)
 - [Минимальная строка](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_WHITE/WEEK_1/OPERATION/min_str/main.cpp)
@@ -69,3 +68,56 @@
 - [Конспект](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_WHITE/WEEK_4/DOC/W4P4.pdf)
 ### Финальная задача курса
 - [Финальная задача курса](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_WHITE/WEEK_5/final-naia-zadacha-kursa/main.cpp)
+## [Основы разработки на C++: желтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow)
+### Целочисленные типы
+- [Средняя температура — 2](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/sriedniaia-tiempieratura-2/main.cpp)
+- [Масса блоков](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/massa-blokov/main.cpp)
+### Кортежи и пары
+- [База регионов](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/TUPLE_AND_PAIR/baza-rieghionov/main.cpp)
+- [Трекер задач](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/TUPLE_AND_PAIR/triekier-zadach/main.cpp)
+### Шаблоны функций
+- [Всё в квадрат](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/Template_Function/vsio-v-kvadrat/main.cpp)
+- [Ссылка на элемент](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/Template_Function/ssylka-na-eliemient/main.cpp)
+- [Конспект по этим темам](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_1_TUPLE_PAIR_TEMLATE_FUNCTION/DOC/week1.pdf)
+### Использование юнит-тестов для отладки программ
+- [Декомпозиция программы](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_2_Unit_test_framework_development_Ending_The_results_and_Using_unit_tests_to_debug_programs/Using_unit_tests_to_debug_programs/diekompozitsiia-proghrammy/main.cpp)
+### Разработка фреймворка юнит-тестов. Начало
+### Разработка фреймворка юнит-тестов. Окончание. Итоги
+- [Тесты для функции GetDistinctRealRootCount](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_2_Unit_test_framework_development_Ending_The_results_and_Using_unit_tests_to_debug_programs/Unit_test_framework_development_Ending_The_results/tiesty-dlia-funktsii-getdistinctrealrootcount/main.cpp)
+- [Тесты для класса Person](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_2_Unit_test_framework_development_Ending_The_results_and_Using_unit_tests_to_debug_programs/Unit_test_framework_development_Ending_The_results/tiesty-dlia-klassa-person/main.cpp)
+- [Тесты для класса Rational](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_2_Unit_test_framework_development_Ending_The_results_and_Using_unit_tests_to_debug_programs/Unit_test_framework_development_Ending_The_results/tiesty-dlia-klassa-rational/main.cpp)
+- [Тесты для функции IsPalindrom](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_2_Unit_test_framework_development_Ending_The_results_and_Using_unit_tests_to_debug_programs/Unit_test_framework_development_Ending_The_results/tiesty-dlia-funktsii-ispalindrom/main.cpp)
+- [Конспект по неделе 2](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_2_Unit_test_framework_development_Ending_The_results_and_Using_unit_tests_to_debug_programs/DOC/week2.pdf)
+### Заголовочные файлы
+### Многофайловые проекты
+- [Реализовать функции, объявленные в заголовочном файле](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_YELLOW/WEEK_3_Distribution_of_code_by_files/Multi_file_projects/riealizovat-funktsii-obiavliennyie-v-zagholovochnom-failie)
+- [Реализовать класс, объявленный в заголовочном файле](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_YELLOW/WEEK_3_Distribution_of_code_by_files/Multi_file_projects/riealizovat-klass-obiavliennyi-v-zagholovochnom-failie)
+- [Написать объявление класса](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_YELLOW/WEEK_3_Distribution_of_code_by_files/Multi_file_projects/diekompozitsiia-proghrammy-2/Solution)
+- [Декомпозиция программы — 2](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_YELLOW/WEEK_3_Distribution_of_code_by_files/Multi_file_projects/diekompozitsiia-proghrammy-2/Solution)
+- [Конспект по неделе 3](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_3_Distribution_of_code_by_files/DOC/week3.pdf)
+### Введение в итераторы
+- [Часть вектора](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Introduction%20to%20iterators/chast-viektora/Solution/solution.cpp)
+- [Часть множества](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Introduction%20to%20iterators/chast-mnozhiestva/Solution/solution.cpp)
+- [Разбиение на слова](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Introduction%20to%20iterators/razbiieniie-na-slova/main.cpp)
+### Использование итераторов в алгоритмах и контейнерах
+- [Удаление повторов](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/The_use_of_iterators%2C_algorithms_and_containers/udalieniie-povtorov/main.cpp)
+- [Перебор перестановок](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/The_use_of_iterators%2C_algorithms_and_containers/pieriebor-pieriestanovok/main.cpp)
+- [Демографические показатели](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/The_use_of_iterators%2C_algorithms_and_containers/diemoghrafichieskiie-pokazatieli/Solution/solution.cpp)
+- [Сортировка слиянием](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/The_use_of_iterators%2C_algorithms_and_containers/sortirovka-sliianiiem/main.cpp)
+### Очередь, дек и алгоритмы поиска
+- [Поиск ближайшего элемента](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Queue_Dec_and_search_algorithms/poisk-blizhaishiegho-eliemienta/main.cpp)
+- [Имена и фамилии — 4](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Queue_Dec_and_search_algorithms/imiena-i-familii-4/main.cpp)
+- [Группировка строк по префиксу](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Queue_Dec_and_search_algorithms/gruppirovka-strok-po-priefiksu/Solution/solution.cpp)
+- [Построение арифметического выражения](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/Queue_Dec_and_search_algorithms/postroieniie-arifmietichieskogho-vyrazhieniia/Solution/solution.cpp)
+- [Конспект по неделе 4](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_4_Iterators_algorithms_and_containers/DOC/week4.pdf)
+### Наследование
+- [Наследование своими руками](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_5_Inheritance%20and%20polymorphism/Inheritance%20/nasliedovaniie-svoimi-rukami/Solution/solution.cpp)
+### Полиморфизм
+- [Отправка уведомлений](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_5_Inheritance%20and%20polymorphism/Polymorphism/otpravka-uviedomlienii/main.cpp)
+- [Набор фигур](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_5_Inheritance%20and%20polymorphism/Polymorphism/nabor-fighur/main.cpp)
+- [Грамотно рефакторим код](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_5_Inheritance%20and%20polymorphism/Polymorphism/gramotno-riefaktorim-kod/Solution/solution.cpp)
+- [Конспект по неделе 5](https://github.com/diekaltesonne/c-plus-plus-modern-development/blob/main/COURSE_YELLOW/WEEK_5_Inheritance%20and%20polymorphism/DOC/Week5.pdf)
+### Курсовой проект
+- [Курсовой проект](https://github.com/diekaltesonne/c-plus-plus-modern-development/tree/main/COURSE_YELLOW/WEEK_6_kursovoi-proiekt/kursovoi-proiekt)
+
+
